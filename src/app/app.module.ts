@@ -13,6 +13,7 @@ import { HeaderComponent } from './header/header.component';
 import { ChangeBgDirective } from './change-bg.directive';
 import { ReshuffleComponent } from './reshuffle/reshuffle.component';
 import { TestComponent } from './test/test.component';
+import { Test123Component } from './test123/test123.component';
 
 
 
@@ -27,6 +28,7 @@ import { TestComponent } from './test/test.component';
     ChangeBgDirective,
     ReshuffleComponent,
     TestComponent,
+    Test123Component,
 
   ],
   imports: [
